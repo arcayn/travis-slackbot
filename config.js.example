@@ -1,0 +1,11 @@
+module.exports = {
+	obj: {
+		"slack-token": "",
+		"slack-signing-secret": "",
+		"port": 5000,
+		"SSLCertificateFile": "",
+		"SSLCertificateKeyFile": "",
+		"SSLCertificateCaFile": ""
+	}
+}
+
